@@ -1,0 +1,14 @@
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\bin\Debug\net6.0\HMSbank.exe
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\bin\Debug\net6.0\HMSbank.deps.json
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\bin\Debug\net6.0\HMSbank.runtimeconfig.json
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\bin\Debug\net6.0\HMSbank.dll
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\bin\Debug\net6.0\HMSbank.pdb
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.AssemblyInfoInputs.cache
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.AssemblyInfo.cs
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.csproj.CoreCompileInputs.cache
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.dll
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\refint\HMSbank.dll
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.pdb
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\HMSbank.genruntimeconfig.cache
+C:\Users\Arshitha\source\repos\HMSbank\HMSbank\obj\Debug\net6.0\ref\HMSbank.dll
